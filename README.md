@@ -1,3 +1,5 @@
+![WebDevMentor Logo](https://static.webdevmentor.info/images/twitter_header_photo_2.png)
+
 [KATA] FizzBuzz
 ===
 
@@ -49,3 +51,29 @@ __IDE__
 
 * [Tests ausführen in Jetbrains Rider](https://www.jetbrains.com/help/rider/Unit_Testing_in_Document.html)
 * [Tests ausführen in Microsoft Visual Studio](https://learn.microsoft.com/de-de/visualstudio/test/run-unit-tests-with-test-explorer?view=vs-2022)
+
+## Lizenz
+
+Dieses Projekt ist unter der [MIT License](LICENSE) veröffentlicht.
+
+Du darfst den Code frei verwenden, verändern und weitergeben — entsprechend den Bedingungen der Lizenz.
+
+## Mitwirken
+
+Beiträge, Verbesserungsvorschläge und Fehlermeldungen sind willkommen.
+
+Wenn du einen Fehler findest oder eine Idee für eine Verbesserung hast, erstelle gerne ein Issue oder einen Pull Request.
+
+## Über WebDevMentor
+
+WebDevMentor ist mein persönliches Projekt über Softwareentwicklung, PHP und die
+Dinge, die man beim Programmieren gerne früher verstanden hätte.
+
+Ich schreibe über Probleme, Lösungen und Erfahrungen aus der Praxis — verständlich,
+pragmatisch und ohne unnötige Komplexität.
+
+**Ich habe die Fehler gemacht. Du musst sie nicht machen.**
+
+🎓 [Mentoring](https://www.webdevmentor.info/mentoring) ·
+📚 [Alle Artikel](https://www.webdevmentor.info/posts/) ·
+💻 [GitHub](https://github.com/webdevmentor)
